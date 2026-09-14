@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #  — Documentación del sistema
+=======
+# Documentación del sistema
+>>>>>>> 7db9f9ccd1d48ea8202bcf47578e48d38542a5f5
 
 ## 1. Descripción de la aplicación
 
