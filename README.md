@@ -1,4 +1,4 @@
-# Nexa Store — Documentación del sistema
+# — Documentación del sistema
 
 ## 1. Descripción de la aplicación
 
